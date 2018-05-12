@@ -1,0 +1,32 @@
+_repo: The-Lettsomian-Lectures-1900-1901AND-ADVANCED-LIFE_43780
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43780-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Bruce, J. Mitchell (John Mitchell)
+    alias: Bruce, John Mitchell
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '42401'
+    url: http://www.gutenberg.org/2009/agents/42401
+description: ''
+gutenberg_issued: '2013-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43780'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heart -- Diseases'
+- !lcsh 'Arteries -- Diseases'
+- !lcsh 'Middle-aged persons'
+- !lcc 'RC'
+- !lcsh 'Cardiovascular system -- Diseases'
+- !lcsh 'Older people'
+title: The Lettsomian Lectures on Diseases and Disorders of the Heart and Arteries
+  in Middle and Advanced Life [1900-1901]
+url: http://www.gutenberg.org/ebooks/43780
