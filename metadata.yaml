@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42401'
     url: http://www.gutenberg.org/2009/agents/42401
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43780#The-Lettsomian-Lectures-1900-1901AND-ADVANCED-LIFE
 gutenberg_issued: '2013-09-21'
 gutenberg_type: Text
 identifiers:
